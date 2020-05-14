@@ -1,0 +1,24 @@
+{
+  "name": "semantic-release-amcom",
+  "version": "1.0.1",
+  "description": "semantic-release poc amcom",
+  "main": "index.js",
+  "dependencies": {
+    "semantic-release": "^17.0.2",
+    "semantic-release-cli": "^5.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo-galante-amcom/semantic-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-galante-amcom/semantic-release/issues"
+  },
+  "homepage": "https://github.com/rodrigo-galante-amcom/semantic-release#readme"
+}
