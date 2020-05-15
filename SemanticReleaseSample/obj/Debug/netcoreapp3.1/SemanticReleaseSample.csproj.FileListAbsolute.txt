@@ -1,0 +1,13 @@
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\bin\Debug\netcoreapp3.1\SemanticReleaseSample.exe
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\bin\Debug\netcoreapp3.1\SemanticReleaseSample.deps.json
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\bin\Debug\netcoreapp3.1\SemanticReleaseSample.runtimeconfig.json
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\bin\Debug\netcoreapp3.1\SemanticReleaseSample.runtimeconfig.dev.json
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\bin\Debug\netcoreapp3.1\SemanticReleaseSample.dll
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\bin\Debug\netcoreapp3.1\SemanticReleaseSample.pdb
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\obj\Debug\netcoreapp3.1\SemanticReleaseSample.csprojAssemblyReference.cache
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\obj\Debug\netcoreapp3.1\SemanticReleaseSample.csproj.CoreCompileInputs.cache
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\obj\Debug\netcoreapp3.1\SemanticReleaseSample.AssemblyInfoInputs.cache
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\obj\Debug\netcoreapp3.1\SemanticReleaseSample.AssemblyInfo.cs
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\obj\Debug\netcoreapp3.1\SemanticReleaseSample.dll
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\obj\Debug\netcoreapp3.1\SemanticReleaseSample.pdb
+C:\dev\labs\semantic-release-console\SemanticReleaseSample\obj\Debug\netcoreapp3.1\SemanticReleaseSample.genruntimeconfig.cache
