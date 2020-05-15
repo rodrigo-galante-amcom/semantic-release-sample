@@ -1,11 +1,13 @@
 # semantic-release POC
 - Controle de releases automatizado que se baseia na especificação **[Semantic Version](https://semver.org/)**
 
-# Como usuar?
+# Como usar?
 
 - Para utilização em conjunto com o github é necessário criar um arquivo .yml com as definições do workflow do semantic-release. Nele podemos definir quais branches estarão envolvidas neste fluxo bem como as etapas de validação e variáveis de ambiente.
 
 - Esse arquivo será utilizado pelo github Actions 
+- Gerar um token npm 
+- Inserir o token npm no repositório do github
 
 # Tipos de commit
 
@@ -26,5 +28,3 @@
 - **[Semantic Version](https://semver.org/)**
 
 - **[How to Create a NPM TOKEN](https://docs.npmjs.com/creating-and-viewing-authentication-tokens)**
-
-
