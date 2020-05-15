@@ -27,4 +27,6 @@
 
 - **[Semantic Version](https://semver.org/)**
 
+- **[Configuração](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md)**
+
 - **[How to Create a NPM TOKEN](https://docs.npmjs.com/creating-and-viewing-authentication-tokens)**
