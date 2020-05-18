@@ -13,13 +13,18 @@
 
 ** Prefixos **
 - Commit com o prefixo - feat (Minor Feature release)
-    *Exemplo de comando:*  git commit -m "feat: ajuste A"
+
+    -- *Exemplo de comando:*  git commit -m "feat: ajuste A"
 
 - Commit com o prefixo - fix (Patch release)
-*Exemplo de comando:* git commit -m "fix: correção do bug na funcionalidade a"
 
+--*Exemplo de comando:* git commit -m "fix: correção do bug na funcionalidade a"
+
+	
 - Commit com o prefixo - perf (Patch release)
-*Exemplo de comando:* git commit -m "perf: ajuste na implementação na funcionalidade a"
+
+-- *Exemplo de comando:* git commit -m "perf: ajuste na implementação na funcionalidade a"
+
 
 - [Referência](https://github.com/semantic-release/semantic-release/blob/master/docs/recipes/distribution-channels.md#publishing-on-distribution-channels)
 
