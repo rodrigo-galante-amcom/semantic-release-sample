@@ -23,6 +23,11 @@ namespace SemanticReleaseSample
             Console.WriteLine("Resultado da multiplicacao: " + calc.Multiplicar(10, 5));
             Console.WriteLine("----------------------------------------");
 
+            Console.WriteLine("Valor1: " + 10);
+            Console.WriteLine("Valor2: " + 5);
+            Console.WriteLine("Resultado da divisao: " + calc.Dividir(10, 5));
+            Console.WriteLine("----------------------------------------");
+
             Console.ReadKey();
         }
     }
