@@ -15,7 +15,7 @@ namespace SemanticReleaseSample
 
             Console.WriteLine("Valor1: " + 10);
             Console.WriteLine("Valor2: " + 5);
-            Console.WriteLine("Resultado da subtracao: " + calc.Subtracao(10, 5));
+            Console.WriteLine("Resultado da subtração: " + calc.Subtracao(10, 5));
             Console.WriteLine("----------------------------------------"); 
             Console.ReadKey();
         }
