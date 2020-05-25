@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-amcom-console",
-  "version": "1.0.1",
+  "version": "3.0.0",
   "description": "semantic-release console poc amcom",
   "main": "index.js",
   "dependencies": {

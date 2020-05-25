@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "z43n1m/WjgxqMLiW2t1Vqb7HixEZEMYgSGwKAC4Nz/1obExhZFFxpyRLC6hYOi/hskGb8dNynXCkOAGs9itHkw==",
+  "dgSpecHash": "9ZmwJpSQ66EbHcYW7xWNvtCiDdgws7/bdBiJZVwFQJsV3Mar29u087sEa/6BRqIFFsSxlrIwRl7f/tPfYRkCUw==",
   "success": true,
   "projectFilePath": "C:\\dev\\labs\\semantic-release-console\\SemanticReleaseSample\\SemanticReleaseSample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rgala\\.nuget\\packages\\jobject\\1.0.0\\jobject.1.0.0.nupkg.sha512",
+    "C:\\Users\\rgala\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

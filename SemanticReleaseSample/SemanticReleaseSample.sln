@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticReleaseSample", "SemanticReleaseSample.csproj", "{2A4BC5B6-1875-4968-9D6A-1E6F3544B0EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemanticReleaseSample", "SemanticReleaseSample.csproj", "{2A4BC5B6-1875-4968-9D6A-1E6F3544B0EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
